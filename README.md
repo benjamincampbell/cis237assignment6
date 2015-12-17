@@ -4,6 +4,8 @@
 
 ## Author
 
+Benjamin M. Campbell
+
 ## Description
 
 You are to create a web application using ASP.NET MVC to manage our beverage database.
@@ -98,5 +100,3 @@ This one is okay, and it is from Microsoft:
 ## Outside Resources Used
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
-
